@@ -2,7 +2,7 @@
 
 This repository contains a streamlined Google Colab notebook designed to run the **Audio8-TTS-Realistic-Air** model. You can easily generate high-quality text-to-speech in multiple languages or clone any voice using just a short `.wav` audio sample, all completely free on a Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=x0fmsiRrn2M)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1T-5wHOoUVLSM5gcW157dVk-yqllVCR9C?usp=sharing)
 
